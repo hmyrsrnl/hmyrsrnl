@@ -1,71 +1,99 @@
-# Merhaba, ben Hümeyra Serenli
+# Merhaba, ben Hümeyra Serenli 
 
-Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
-Algoritmalar, veri yapıları, nesne yönelimli programlama ve veritabanı sistemleri üzerine güçlü bir akademik altyapıya sahibim.  
-Teknopark bünyesinde yaptığım yaz stajı ve bireysel projelerimle yazılım geliştirme alanında kendimi sürekli geliştirmekteyim.
-
----
-
-## Programlama Dilleri & Teknolojiler
-
-- **Programlama:** Python, Kotlin, C  
-- **Web:** Flask, Vue.js, Nuxt 3  
-- **Veritabanı:** SQL, SQLite, SQLAlchemy  
-- **Test:** pytest, pytest-flask  
-- **Sistem & Araçlar:** Linux (Ubuntu), Git, Bash  
+Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
+Web ve mobil uygulama geliştirme, REST API, veritabanı sistemleri ve yazılım testleri üzerine çalışıyorum.  
+Staj ve bireysel projelerim kapsamında farklı teknolojiler kullanarak gerçek dünya problemlerine yönelik uygulamalar geliştirmeye devam ediyorum.
 
 ---
 
-## Deneyim
+##  Teknolojiler
 
-### ABRAMAK Bilgi Teknolojileri – Yazılım Stajyeri  
-  Teknopark | Ağustos 2025
-- Linux (Ubuntu, WSL2) ortamında Python & Flask ile web tabanlı **iş takip sistemi** geliştirdim  
-- SQLite ve SQLAlchemy kullanarak veritabanı tasarımı ve CRUD işlemlerini gerçekleştirdim  
-- Flask-Login ile kullanıcı kimlik doğrulama ve yetkilendirme modülleri geliştirdim  
-- pytest ve pytest-flask ile birim ve entegrasyon testleri yazdım  
-- Bash scriptleri ile otomatik yedekleme ve geri yükleme süreçlerini yönettim  
-- Git ile versiyon kontrolü ve teknik dokümantasyon süreçlerine katkı sağladım  
+### Programlama
+Python · C# · C · Kotlin · JavaScript · TypeScript · SQL
 
----
+### Web
+React · Vue.js · Nuxt 3 · Vite · Flask · PHP · REST API
 
-## Projeler
+### Mobil
+React Native · Expo · Android / Kotlin
 
-###  Flo Clone – E-Ticaret Web Uygulaması
-**Nuxt 3, Vue.js, TypeScript, Firebase**  
-- E-ticaret arayüzü geliştirildi  
-- Bileşen tabanlı mimari ve sayfa yapıları oluşturuldu  
-- Firebase entegrasyonu sağlandı  
+### Veritabanı
+MySQL · SQLite · SQLAlchemy
 
-###  İş Takip Sistemi (Staj Projesi)
-**Python, Flask, SQLite, pytest, Linux**  
-- Web tabanlı iş takip uygulaması geliştirildi  
-- Kullanıcı yetkilendirme ve veritabanı işlemleri gerçekleştirildi  
-- Test ve doğrulama süreçlerinde aktif rol alındı  
-
-###  Kütüphane Otomasyonu
-**Python, Hash Table**  
-- Veri ekleme, silme ve arama işlemleri içeren akademik proje  
-
-###  Android Uygulamaları
-**Kotlin**  
-- Bootcamp ve dersler kapsamında temel Android uygulamaları geliştirildi  
+### Araçlar
+Git · GitHub · Linux (Ubuntu) · WSL2 · Bash · pytest
 
 ---
 
-##  Teknik Beceriler
+##  Deneyim
 
-- Algoritma tasarımı ve analiz  
-- Nesne Yönelimli Programlama (OOP)  
-- Veri yapıları  
-- Veritabanı tasarımı ve SQL  
-- Full Stack web geliştirme (temel)  
-- Test ve teknik dokümantasyon  
+### Yalova Cemre Tersanesi — Yazılım Stajyeri
+**Temmuz 2026 – Ağustos 2026**
+
+- React ve MySQL teknolojileriyle web tabanlı ERP uygulamasının geliştirilmesine katkı sağladım.
+- PHP REST API kullanarak istemci-sunucu entegrasyonu üzerinde çalıştım.
+- İnsan Kaynakları, Revir ve Kalite Kontrol modüllerinin geliştirilme süreçlerinde görev aldım.
+- Web, mobil ve masaüstü uygulama geliştirme süreçlerinde deneyim kazandım.
+
+### ABRAMAK Bilgi Teknolojileri — Yazılım Stajyeri
+**Teknopark | Ağustos 2025**
+
+- Linux (Ubuntu, WSL2) ortamında Python ve Flask kullanarak web tabanlı iş takip sistemi geliştirdim.
+- SQLite ve SQLAlchemy ile veritabanı ve CRUD işlemleri gerçekleştirdim.
+- Flask-Login ile kullanıcı kimlik doğrulama ve yetkilendirme modülleri geliştirdim.
+- pytest ve pytest-flask ile birim ve entegrasyon testleri yazdım.
+- Bash ve Git kullanarak yedekleme, versiyon kontrolü ve dokümantasyon süreçlerine katkı sağladım.
 
 ---
 
-##  İletişim
+##  Projeler
 
-- GitHub: https://github.com/hmyrsrnl  
-- LinkedIn: https://linkedin.com/in/hümeyraserenli  
+### stajERP — ERP Yönetim Sistemi
+**React · React Native · PHP REST API · MySQL**
 
+İnsan Kaynakları, Revir, Kalite Kontrol ve Çalışan süreçlerini yöneten çok platformlu ERP uygulaması.
+
+- Web, mobil ve masaüstü istemciler geliştirildi.
+- REST API üzerinden backend entegrasyonu sağlandı.
+- Modüler yapı ve kullanıcı yetkilendirme süreçleri üzerinde çalışıldı.
+
+### Flo Clone — E-Ticaret Web Uygulaması
+**Nuxt 3 · Vue.js · TypeScript · Firebase**
+
+- E-ticaret arayüzü geliştirildi.
+- Bileşen tabanlı mimari ve sayfa yapıları oluşturuldu.
+- Firebase entegrasyonu gerçekleştirildi.
+
+### İş Takip Sistemi
+**Python · Flask · SQLite · SQLAlchemy · pytest · Linux**
+
+- Flask tabanlı web uygulaması geliştirildi.
+- Kullanıcı kimlik doğrulama ve yetkilendirme işlemleri gerçekleştirildi.
+- Veritabanı yönetimi, CRUD işlemleri ve test süreçleri uygulandı.
+
+### Kütüphane Otomasyonu
+**Python · Hash Table**
+
+- Veri ekleme, silme ve arama işlemlerini içeren akademik proje.
+
+---
+
+## Teknik Yetkinlikler
+
+- Algoritma tasarımı ve analizi
+- Veri yapıları
+- Nesne yönelimli programlama (OOP)
+- Veritabanı tasarımı ve SQL
+- Full Stack web geliştirme
+- REST API ve istemci-sunucu entegrasyonu
+- Yazılım testleri
+- Git ve versiyon kontrolü
+- Teknik dokümantasyon
+
+---
+
+## İletişim
+
+- GitHub: [github.com/hmyrsrnl](https://github.com/hmyrsrnl)
+- LinkedIn: [linkedin.com/in/hümeyraserenli](https://linkedin.com/in/hümeyraserenli)
+- E-posta: humeyraserenli@gmail.com
