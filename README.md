@@ -95,5 +95,5 @@ Git · GitHub · Linux (Ubuntu) · WSL2 · Bash · pytest
 ## İletişim
 
 - GitHub: [github.com/hmyrsrnl](https://github.com/hmyrsrnl)
-- LinkedIn: [linkedin.com/in/hümeyraserenli]([https://linkedin.com/in/hümeyraserenli](https://www.linkedin.com/in/h%C3%BCmeyra-serenli-26733726b/))
+- LinkedIn: [linkedin.com/in/hümeyraserenli](https://www.linkedin.com/in/h%C3%BCmeyra-serenli-26733726b/)
 - E-posta: humeyraserenli@gmail.com
